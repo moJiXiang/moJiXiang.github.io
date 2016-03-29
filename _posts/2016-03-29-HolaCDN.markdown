@@ -1,0 +1,25 @@
+---
+layout: post
+title: "HolaCDN"
+date: 2016-03-29
+categories: video cdn
+---
+> [原文链接](http://holacdn.com/faq#hola-cdn-faq)
+
+# 概述
+### 什么是HolaCDN?
+
+HolaCDN是专为视频传输建立的第一个CDN。HolaCDN是一个基于现有的CDN之上的叠加;它不需要对现有的基础结构进行任何更改。 HolaCDN使用客户端和服务器技术用来：
+  * 提供详细的视频用户体验的统计数据
+  * 瞬间让你的视频从多个的CDN流
+  * 降低视频故障率
+  * 提高视频的开始和寻道时间
+  * 减少缓冲的概率和时间
+  * 提高视频比特率
+  * 降低视频传输成本
+
+# 什么使HolaCDN比现有CDN更快，更便宜
+
+HolaCDN从地上爬起来，只处理视频流量.HolaCDN是唯一的CDN能够执行中流切换，这意味着一个视频会从多个服务器获取。
+HolaCDN“拍卖”HolaCDN服务器和现有的CDN（S）的视频片段。前几个段由最快的服务器这是最靠近用户提供服务，和随后的段是由可位于其它区域的服务器提供服务。
+通过从霍拉低成本CDN获取最段，HolaCDN降低成本的同时提高性能。
